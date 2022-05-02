@@ -1,1 +1,1 @@
-module.exports = require('./structures/classes/MySQL');
+module.exports = require("./structures/classes/MySQL");
